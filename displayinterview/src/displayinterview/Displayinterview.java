@@ -5,14 +5,14 @@
  */
 
 
-package displayinterview;
+package display;
 
 /**
  *
  * @author ikramlim
  */
 
-public class Displayinterview {
+public class Display{
 
     /**
      * @param args the command line arguments
